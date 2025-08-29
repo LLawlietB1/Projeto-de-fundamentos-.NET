@@ -1,7 +1,5 @@
 # 🚗 Sistema de Estacionamento
 
-# 🚗 Sistema de Estacionamento
-
 Este projeto foi desenvolvido como parte de um **desafio de fundamentos em C#**, com o objetivo de criar um sistema simples para gerenciamento de veículos em um estacionamento.  
 
 O **modelo inicial** do projeto foi fornecido pelo professor **Leonardo Buta (DIO)**, sendo importante destacar que **toda a lógica foi implementada por mim** durante o desenvolvimento.
