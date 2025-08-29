@@ -1,0 +1,14 @@
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+E:\Lucas\Estudos\ConceitosC#\DIO\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
